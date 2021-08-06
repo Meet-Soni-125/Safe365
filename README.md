@@ -9,7 +9,7 @@
 - Open webapp folder for react frontend project in visual studio code or any IDE and execute below commands:
 ```sh
 npm i
-npm run
+npm start
 ```
 
 ## .NET CORE BackEnd:
