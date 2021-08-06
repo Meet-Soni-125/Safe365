@@ -27,3 +27,4 @@ npm run
 Attaching screenshot of running app.
 
 - Screenshot folder have all screenshots of running app.
+- Added migration script in root directoty as 'migration_script.sql'
