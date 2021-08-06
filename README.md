@@ -5,8 +5,8 @@
 
 
 ## React FrontEnd:
-- Webapp directory is all about frontend architecture of react JS and user can perform Add/Update/Delete customer operations and show all customers.
-- Open webapp folder for react frontend project in visual code and execute below commands:
+- Webapp directory is all about frontend architecture build in react JS for oprations like Add/Update/Delete customer and show all customers.
+- Open webapp folder for react frontend project in visual studio code or any IDE and execute below commands:
 ```sh
 npm i
 npm run
