@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DemoProjects\\dotnet\\safe365BackEnd\\XUnitTestForSafe365\\XUnitTestForSafe365.csproj": {}
+    "D:\\DemoProjects\\dotnet\\safe365\\XUnitTestForSafe365\\XUnitTestForSafe365.csproj": {}
   },
   "projects": {
-    "D:\\DemoProjects\\dotnet\\safe365BackEnd\\safe365BackEnd\\safe365BackEnd.csproj": {
+    "D:\\DemoProjects\\dotnet\\safe365\\safe365BackEnd\\safe365BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DemoProjects\\dotnet\\safe365BackEnd\\safe365BackEnd\\safe365BackEnd.csproj",
+        "projectUniqueName": "D:\\DemoProjects\\dotnet\\safe365\\safe365BackEnd\\safe365BackEnd.csproj",
         "projectName": "safe365BackEnd",
-        "projectPath": "D:\\DemoProjects\\dotnet\\safe365BackEnd\\safe365BackEnd\\safe365BackEnd.csproj",
+        "projectPath": "D:\\DemoProjects\\dotnet\\safe365\\safe365BackEnd\\safe365BackEnd.csproj",
         "packagesPath": "C:\\Users\\meet.soni\\.nuget\\packages\\",
-        "outputPath": "D:\\DemoProjects\\dotnet\\safe365BackEnd\\safe365BackEnd\\obj\\",
+        "outputPath": "D:\\DemoProjects\\dotnet\\safe365\\safe365BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\meet.soni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\DemoProjects\\dotnet\\safe365BackEnd\\XUnitTestForSafe365\\XUnitTestForSafe365.csproj": {
+    "D:\\DemoProjects\\dotnet\\safe365\\XUnitTestForSafe365\\XUnitTestForSafe365.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DemoProjects\\dotnet\\safe365BackEnd\\XUnitTestForSafe365\\XUnitTestForSafe365.csproj",
+        "projectUniqueName": "D:\\DemoProjects\\dotnet\\safe365\\XUnitTestForSafe365\\XUnitTestForSafe365.csproj",
         "projectName": "XUnitTestForSafe365",
-        "projectPath": "D:\\DemoProjects\\dotnet\\safe365BackEnd\\XUnitTestForSafe365\\XUnitTestForSafe365.csproj",
+        "projectPath": "D:\\DemoProjects\\dotnet\\safe365\\XUnitTestForSafe365\\XUnitTestForSafe365.csproj",
         "packagesPath": "C:\\Users\\meet.soni\\.nuget\\packages\\",
-        "outputPath": "D:\\DemoProjects\\dotnet\\safe365BackEnd\\XUnitTestForSafe365\\obj\\",
+        "outputPath": "D:\\DemoProjects\\dotnet\\safe365\\XUnitTestForSafe365\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\meet.soni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,8 +106,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\DemoProjects\\dotnet\\safe365BackEnd\\safe365BackEnd\\safe365BackEnd.csproj": {
-                "projectPath": "D:\\DemoProjects\\dotnet\\safe365BackEnd\\safe365BackEnd\\safe365BackEnd.csproj"
+              "D:\\DemoProjects\\dotnet\\safe365\\safe365BackEnd\\safe365BackEnd.csproj": {
+                "projectPath": "D:\\DemoProjects\\dotnet\\safe365\\safe365BackEnd\\safe365BackEnd.csproj"
               }
             }
           }
